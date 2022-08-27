@@ -1,4 +1,4 @@
-### David
+### David J
 
 <div>
   <a href="https://www.codecademy.com/profiles/fridayshoes"><img src="https://img.shields.io/badge/Codecademy-1F4056?logo=codecademy&logoColor=fff&style=for-the-badge"></a>
@@ -6,7 +6,11 @@
   <a href="https://www.codewars.com/users/fridayshoes"><img src="https://img.shields.io/badge/Codewars-a83232?style=for-the-badge&logo=codewars&logoColor=white"></a>
 </div>
 
-INTRO TO GO HERE
+I recently completed a 16-week Full-Stack Software Engineering Bootcamp at Makers Academy and am actively building upon my coding knowhow whilst looking for my first Software Engineering role.
+
+Prior to Makers, I spent 20+ years working as a Conceptual Creative (Art Direction & Copywriting) in the Advertising Industry.
+
+ 
 
 _GitHub CV Here_
 
