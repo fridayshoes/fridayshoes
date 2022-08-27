@@ -8,8 +8,7 @@
 
 I recently completed a 16-week Full-Stack Software Engineering Bootcamp at Makers Academy and am actively building upon my coding knowhow whilst looking for my first Software Engineering role.
 
-Prior to Makers, I spent 20+ years working as a Conceptual Creative (Art Direction & Copywriting) in the Advertising Industry.
-
+Prior to Makers, I spent 20+ years working as a Conceptual Creative (Art Direction & Copywriting) in the Advertising Industry. Here I came up with ideas for adverts as well as being involved in making digital experiences like mobile apps, websites and online games for well-known everyday brands and products.  
  
 
 _GitHub CV Here_
