@@ -38,8 +38,8 @@
 <p align="center">This is what I've been up to...</p>
 <br>
 
-🔭 I’m currently working on getting better at TDD
-🌱 I’m currently learning more JS and Ruby
-⚡ Fun fact: Before I learnt to code I created a mobile app that achieved over 1 million downloads.
+<p align="center">🔭 I’m currently working on getting better at TDD.</p>
+<p align="center">🌱 I’m currently learning more JS and Ruby.</p>
+<p align="center">⚡ Fun fact: Before I learnt to code I created a mobile app that achieved over 1 million downloads.</p>
 
   </div>
