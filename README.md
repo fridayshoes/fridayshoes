@@ -1,5 +1,5 @@
 ### Welcomes to Dave's GitHub
-
+<br>
 <div>
   <a href="https://github.com/fridayshoes/CV"><img src="https://img.shields.io/badge/Github CV-4B4B4B?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://www.codecademy.com/profiles/fridayshoes"><img src="https://img.shields.io/badge/Codecademy-1F4056?logo=codecademy&logoColor=fff&style=for-the-badge"></a>
