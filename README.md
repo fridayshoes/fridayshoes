@@ -1,9 +1,9 @@
 ### David J
 
 <div>
-  <a href="https://www.codecademy.com/profiles/fridayshoes"><img src="https://img.shields.io/badge/Codecademy-1F4056?logo=codecademy&logoColor=fff&style=for-the-badge"></a>
   <a href="https://github.com/fridayshoes/CV"><img src="https://img.shields.io/badge/Github CV-4B4B4B?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://www.codewars.com/users/fridayshoes"><img src="https://img.shields.io/badge/Codewars-a83232?style=for-the-badge&logo=codewars&logoColor=white"></a>
+  <a href="https://www.codecademy.com/profiles/fridayshoes"><img src="https://img.shields.io/badge/Codecademy-1F4056?logo=codecademy&logoColor=fff&style=for-the-badge"></a>
+   <a href="https://www.codewars.com/users/fridayshoes"><img src="https://img.shields.io/badge/Codewars-a83232?style=for-the-badge&logo=codewars&logoColor=white"></a>
 </div>
 
 I recently completed a 16-week Full-Stack Software Engineering Bootcamp at Makers Academy and am actively building upon my coding knowhow whilst looking for my first Software Engineering role.
@@ -38,13 +38,8 @@ _GitHub CV Here_
   <img src="https://img.shields.io/badge/-CSS-559DFF?style=for-the-badge&logo=css3&logoColor=559DFF&labelColor=282828">
 </p></br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on getting better at TDD
+- 🌱 I’m currently learning more JS and Ruby
+- ⚡ Fun fact: Before I learnt to code I created a mobile app that achieved over 1 million downloads.
 
   </div>
