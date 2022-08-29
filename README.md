@@ -11,8 +11,6 @@ I've recently completed a 16-week Full-Stack Software Engineering Bootcamp at Ma
 Prior to Makers, I have a 20+ year professional career behind me working as a Conceptual Creative (Art Direction & Copywriting) in the Advertising Industry. This involved concepting ideas for adverts as well as producing digital experiences like mobile apps, websites and online games - all for well-known everyday brands and products.
 
 
-Here's a selection of the technology I've worked with so far.
-
 <p align="center">Here's a selection of the technology I've worked with so far.
 <br>
 <div align="center">
