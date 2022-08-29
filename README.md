@@ -19,7 +19,7 @@ Prior to Makers, I have a 20+ year professional career behind me working as a Co
   <img src="https://img.shields.io/badge/-Jest-B84D6F?style=for-the-badge&logo=jest&logoColor=B84D6F&labelColor=282828">
   <img src="https://img.shields.io/badge/-Node.js-80D857?style=for-the-badge&logo=node.js&logoColor=80D857&labelColor=282828">
   <img src="https://img.shields.io/badge/-Cypress-3b3938?style=for-the-badge&logo=cypress&logoColor=faf2ed&labelColor=282828">
-  <img src="https://img.shields.io/badge/-Express-fffefc?style=for-the-badge&logo=express&logoColor=EEEEEE&labelColor=282828"></br>
+  <img src="https://img.shields.io/badge/-Express-EEEEEE?style=for-the-badge&logo=express&logoColor=EEEEEE&labelColor=282828"></br>
   
   <img src="https://img.shields.io/badge/-Ruby-FF6A55?style=for-the-badge&logo=ruby&logoColor=FF6A55&labelColor=282828">
   <img src="https://img.shields.io/badge/-Rails-d93030?style=for-the-badge&logo=ruby-on-rails&logoColor=FF6A55&labelColor=282828">
