@@ -32,10 +32,14 @@
 
   <img src="https://img.shields.io/badge/-HTML-FF5733?style=for-the-badge&logo=html5&logoColor=FF5733&labelColor=282828">
   <img src="https://img.shields.io/badge/-CSS-559DFF?style=for-the-badge&logo=css3&logoColor=559DFF&labelColor=282828">
-</p></br>
+</p>
 
-- 🔭 I’m currently working on getting better at TDD
-- 🌱 I’m currently learning more JS and Ruby
-- ⚡ Fun fact: Before I learnt to code I created a mobile app that achieved over 1 million downloads.
+<br>
+<p align="center">This is what I've been up to...</p>
+<br>
+
+🔭 I’m currently working on getting better at TDD
+🌱 I’m currently learning more JS and Ruby
+⚡ Fun fact: Before I learnt to code I created a mobile app that achieved over 1 million downloads.
 
   </div>
