@@ -6,9 +6,9 @@
    <a href="https://www.codewars.com/users/fridayshoes"><img src="https://img.shields.io/badge/Codewars-a83232?style=for-the-badge&logo=codewars&logoColor=white"></a>
 </div>
 <br>
-<p align="center">I've recently completed a 16-week Full-Stack Software Engineering Bootcamp at Makers Academy and am actively building upon my coding knowhow whilst looking for my first Software Engineering role.
+<p align="center">I've recently completed a 16-week Full-Stack Software Engineering Bootcamp at Makers Academy and am actively building upon my coding knowhow whilst looking for my first Software Engineering role.</p>
 
-Prior to Makers, I have a 20+ year professional career behind me working as a Conceptual Creative (Art Direction & Copywriting) in the Advertising Industry. This involved concepting ideas for adverts as well as producing digital experiences like mobile apps, websites and online games - all for well-known everyday brands and products.</p>
+<p align="center">Prior to Makers, I have a 20+ year professional career behind me working as a Conceptual Creative (Art Direction & Copywriting) in the Advertising Industry. This involved concepting ideas for adverts as well as producing digital experiences like mobile apps, websites and online games - all for well-known everyday brands and products.</p>
 
 <p align="center">Here's a selection of the technology I've worked with so far.
 <br>
