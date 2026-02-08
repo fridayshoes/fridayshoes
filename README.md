@@ -13,6 +13,8 @@
 <p align="center">Here's a selection of the technology I've worked with so far.
 <br>
 <div align="center">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff&labelColor=282828">
+  
   <img src="https://img.shields.io/badge/-Javascript-f7e968?style=for-the-badge&logo=javascript&logoColor=f7e968&labelColor=282828">
   <img src="https://img.shields.io/badge/-React-58D2F0?style=for-the-badge&logo=react&logoColor=58D2F0&labelColor=282828">
   <img src="https://img.shields.io/badge/-Jest-B84D6F?style=for-the-badge&logo=jest&logoColor=B84D6F&labelColor=282828">
