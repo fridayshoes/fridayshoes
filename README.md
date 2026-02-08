@@ -41,7 +41,7 @@
 <br>
 
 <p align="center">🔭 I’m currently working on getting better at TDD.</p>
-<p align="center">🌱 I’m currently learning more JS and Ruby.</p>
+<p align="center">🌱 I’m currently learning more Python and JS.</p>
 <p align="center">⚡ Fun fact: Before I learnt to code I created a mobile app that achieved over 1 million downloads.</p>
 
   </div>
